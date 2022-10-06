@@ -29,9 +29,9 @@ Project created with:
 
 ## Installation
 To run this project:
-* Open the zip.
-* Import the file in wordpress.
-* Import the file in wp all in one migration.
+* Open the pdf.
+* Import the file in wordpress and import the file in wp all in one migration.
+* If domain a id and password is: Id: admin - Password: Start2impact!
 * look the web site.
 
 ## Collaboration
