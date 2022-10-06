@@ -1,46 +1,47 @@
-# Wordpress_S2I_Hotel_Pomelia
-Costruzione tema child
-Progetto Wordpress_S2I_Hotel_Pomelia - Wordpress 2022
+# Progetto Hotel Pomelia -  Wordpress 2022
 
 This is my first Wordpress project-2022
 
-Table of Contents
+## Table of Contents
+1. [Info](#info)
+2. [Description](#description)
+3. [Technologies used](#technologies_used)
+4. [Installation](#installation)
+5. [Collaboration](#collaboration)
+6. [Know Bugs](#know_bugs)
+7. [License](#license)
+8. [Contact Information](#contact_information)
 
-Info
-Description
-Technologies used
-Installation
-Collaboration
-Know Bugs
-License
-Contact Information
-Info
+## Info
+This is the Hotel Pomelia web site of Paolo Riccardo.
 
-This is the Hotel Pomelia Site of Paolo Riccardo.
-
-Description
-
+## Description
 This is my first project with Wordpress, realized in 2022.
 
-Technologies used
-
+## Technologies used
 Project created with:
+* Visual Studio
+* CSS3
+* Wordpress
+* Contact Form 7
+* Vik Booking
+* WP all in one migration
 
-Visual Studio
-CSS3
-Wordpress
-
+## Installation
 To run this project:
+* Open the zip.
+* Import the file in wordpress.
+* Import the file in wp all in one migration.
+* look the web site.
 
-import the file in the wordpress with WP ALL IN ONE MIGRATION
+## Collaboration
+* No collaboration
 
-No collaboration
-Know_Bugs
+## Know_Bugs
+* No know bugs
 
-No know bugs
-License
+## License
+* No license
 
-No license
-Contact_Information
-
+## Contact_Information
 You can contact me at: paoloriccardo93@gmail.com
